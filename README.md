@@ -1,2 +1,2 @@
 # Schematics
-IEC-60617 schematics I've made
+Schematics that I've drawn in KiCad
